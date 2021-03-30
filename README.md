@@ -8,11 +8,11 @@
 
 - roll rate should less than 2.5 radian/sec for 0.75 seconds
 
-  ```
+
   <p align="center">
   <img src="Gif/scenario5.gif" width="500"/>
   </p>
-  ```
+ 
 
 ## Postion/velocity and yaw angle control (Scenario 3)
 
