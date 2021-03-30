@@ -10,7 +10,7 @@
 
 
   <p align="center">
-  <img src="Gif/scenario5.gif" width="500"/>
+  <img src="gif_animation/scenario5.gif" width="500"/>
   </p>
  
 
@@ -24,7 +24,7 @@
 
   
   <p align="center">
-  <img src="Gif/scenario3.gif" width="500"/>
+  <img src="gif_animation/scenario3.gif" width="500"/>
   </p>
   
 
@@ -36,7 +36,7 @@
 
   
   <p align="center">
-  <img src="Gif/scenario4.gif" width="500"/>
+  <img src="gif_animation/scenario4.gif" width="500"/>
   </p>
   
 
