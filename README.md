@@ -10,7 +10,7 @@
 
 
   <p align="center">
-  <img src="gif_animation/scenario5.gif" width="500"/>
+  <img src="gif_animation/scenario2.gif" width="500"/>
   </p>
  
 
