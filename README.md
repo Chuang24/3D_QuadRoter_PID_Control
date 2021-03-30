@@ -10,7 +10,11 @@
 
 
   <p align="center">
-  <img src="gif_animation/scenario5.gif" width="500"/>
+<<<<<<< HEAD
+  <img src="gif_animation/scenario2.gif" width="500"/>
+=======
+  <img src="Gif/scenario5.gif" width="500"/>
+>>>>>>> 578b72230b7da6d33aec91ade968585f8966a135
   </p>
  
 
@@ -24,7 +28,11 @@
 
   
   <p align="center">
+<<<<<<< HEAD
   <img src="gif_animation/scenario3.gif" width="500"/>
+=======
+  <img src="Gif/scenario3.gif" width="500"/>
+>>>>>>> 578b72230b7da6d33aec91ade968585f8966a135
   </p>
   
 
@@ -36,7 +44,11 @@
 
   
   <p align="center">
+<<<<<<< HEAD
   <img src="gif_animation/scenario4.gif" width="500"/>
+=======
+  <img src="Gif/scenario4.gif" width="500"/>
+>>>>>>> 578b72230b7da6d33aec91ade968585f8966a135
   </p>
   
 
@@ -48,6 +60,11 @@
 
 
 <p align="center">
+<<<<<<< HEAD
 <img src="gif_animation/scenario5.gif" width="500"/>
 </p>
 
+=======
+<img src="Gif/scenario5.gif" width="500"/>
+</p>
+>>>>>>> 578b72230b7da6d33aec91ade968585f8966a135
